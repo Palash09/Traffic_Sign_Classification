@@ -4,9 +4,18 @@ In this project, I have performed classification of different traffic signs with
 This classification project deals with the classification of traffic signs into different categories with the help of 
 convolutional neural networks.
 
-I have used dataset which is available on Kaggle over here ""
+I have used dataset which is available on Kaggle over here "https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign"
 
 This convolutional neural network model is built with the help of Keras library with an accuracy of 97%
 
 I have visualized the results of this CNN model in a GUI with the help of tkinter where we can upload the image and then look the 
 category in which that image falls.
+
+The GUI for this traffic classification and recognition is shown below.
+
+![Image_traffic]()
+
+![Image_traffic]()
+
+![Image_traffic]()
+
