@@ -11,11 +11,16 @@ This convolutional neural network model is built with the help of Keras library 
 I have visualized the results of this CNN model in a GUI with the help of tkinter where we can upload the image and then look the 
 category in which that image falls.
 
-The GUI for this traffic classification and recognition is shown below.
+Once the traffic classification GUI is initialized, it shows up with the screen shown below.
 
-![Image_traffic]()
+![Image_traffic](https://github.com/Palash09/Traffic_Sign_Classification/blob/master/traffic_gui.png)
 
-![Image_traffic]()
+After this, the *upload image* button is pressed to upload an image stored in the local system for predicting the traffic sign.
 
-![Image_traffic]()
+![Image_traffic](https://github.com/Palash09/Traffic_Sign_Classification/blob/master/sign_upload.png)
+
+Lastly, when the image is uploaded, *classify image* button is pressed to classify the image and recognize it with the name of 
+the traffic sign displayed above the image.
+
+![Image_traffic](https://github.com/Palash09/Traffic_Sign_Classification/blob/master/sign_reco.png)
 
